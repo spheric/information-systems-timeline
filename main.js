@@ -1,4 +1,4 @@
-import * as d3 from 'd3';
+import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7.8.5/+esm';
 import { timelineData } from './data.js';
 
 class Timeline {
